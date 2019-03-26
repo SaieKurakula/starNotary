@@ -1,3 +1,11 @@
+// Sources of inspiration and code help
+// https://github.com/MitchTODO/Private-Blockchain
+// https://github.com/AmyCN2016/DAPP_3rd
+// https://github.com/nrshoudi/DecenterlizedStarNotaryService
+// https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c
+// http://erc721.org/
+
+
 pragma solidity >=0.4.24;
 
 //Importing openzeppelin-solidity ERC-721 implemented Standard
